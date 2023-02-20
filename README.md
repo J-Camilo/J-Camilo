@@ -2,7 +2,7 @@
   <b><p>Hi... My name is Camilo</p></b>
   <p>I am Programmer junior front-end, and these are the languages that I practice</p>
 </div><hr color="green">
-  <br>
+ 
 <div align="center">
   <a href="https://github.com/J-Camilo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J-Camilo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-NodeJs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
-  
+  <br>
   <p> <b> My Others Skills</b></p>
   <img align="center" alt="Rafa-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rafa-GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
