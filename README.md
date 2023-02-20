@@ -1,6 +1,5 @@
 <div align="center">
-  <p>Hola soy Camilo</p>
-  <br>
+  <b><p>Hola soy Camilo</p></b>
   <p>I am Programmer junior front-end, this language </p>
 </div>
   
