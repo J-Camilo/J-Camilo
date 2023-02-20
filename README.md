@@ -1,4 +1,4 @@
-<div style:"text-aling: center">
+<div align="center">
   <p>Hola soy Camilo</p>
   <br>
   <p>I am Programmer junior front-end, this language </p>
