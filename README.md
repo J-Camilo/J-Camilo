@@ -1,7 +1,7 @@
 <div align="center">
   <b><p>Hi... My name is Camilo</p></b>
   <p>I am Programmer junior front-end, and these are the languages that I practice</p>
-</div>
+</div><hr>
   
 <div align="center">
   <a href="https://github.com/J-Camilo">
