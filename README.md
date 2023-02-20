@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" fong-size="12px">
   <b><p>Hi... My name is Camilo</p></b>
   <p>I am Programmer junior front-end, and these are the languages that I practice</p>
 </div><hr color="green">
