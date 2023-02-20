@@ -1,6 +1,6 @@
 <div align="center">
-  <b><p>Hola soy Camilo</p></b>
-  <p>I am Programmer junior front-end, this language </p>
+  <b><p>Hi... My name is Camilo</p></b>
+  <p>I am Programmer junior front-end, and these are the languages that I practice</p>
 </div>
   
 <div align="center">
