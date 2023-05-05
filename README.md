@@ -1,6 +1,7 @@
 <div align="center" fong-size="12px">
   <b><p>Hi... My name is Camilo</p></b>
   <p>I am Programmer junior front-end, and these are the languages that I practice</p>
+  <p>I am very creative when it comes to creating web pages or (web applications), my learning process is fast and I really like working as a team. <br> I like to learn new things every day that passes in what is programming</p>
 </div><hr color="green">
  
 <div align="center">
