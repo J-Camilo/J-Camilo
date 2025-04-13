@@ -22,11 +22,8 @@
   <img align="center" alt="Rafa-Mongodb" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   
   <br><p><b>My Others Skills</b></p>
-  <img align="center" alt="Rafa-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Rafa-Heroku" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Rafa-Vercel" height="40" width="40" src="https://skillicons.dev/icons?theme=light&perline=8&i=vercel">
-  <img align="center" alt="Rafa-Railway" height="40" width="40" src="https://railway.app/brand/logo-dark.png">  
   <img align="center" alt="Rafa-PowerBi" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png">
   <img align="center" alt="Rafa-Jquery" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">    
   <img align="center" alt="Rafa-Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png">  
